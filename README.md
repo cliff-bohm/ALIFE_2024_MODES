@@ -4,7 +4,7 @@ This includes the "Evo-Sandbox" digital evolution platform (the particular files
 
 # MABE Installation Guide
 
-## Step 1: Ensure Required Components
+## Step 1: Ensure Required Components (you do not need to install MABE yet)
 
 Visit the [Installation Guide](https://github.com/Hintzelab/MABE/wiki/Installation-and-getting-started-with-MABE) to check required software:
 - C++17 Compiler
