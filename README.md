@@ -9,7 +9,7 @@ This includes the "Evo-Sandbox" digital evolution platform (the particular files
 Visit the [Installation Guide](https://github.com/Hintzelab/MABE/wiki/Installation-and-getting-started-with-MABE) to check required software:
 - C++17 Compiler
 - CMake >= 3.13.3
-- Python >= 3.7 (optional)
+- Python >= 3.7
 
 ## Step 2: Build MABE
 
